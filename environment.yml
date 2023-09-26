@@ -8,7 +8,6 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - scipy
   - fenics
   - pybind11
   - mpi4py
