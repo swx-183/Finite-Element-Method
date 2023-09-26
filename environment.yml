@@ -10,8 +10,6 @@ dependencies:
   - matplotlib
   - scipy
   - fenics
-  - fenics-ffcx
-  - fenics-basix
   - pybind11
   - mpi4py
   - petsc4py
