@@ -1,0 +1,19 @@
+dependencies:
+- python=3.10
+- pip:
+  - IPython
+  - ipykernel
+  - tensorflow
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pybind11
+  - mpi4py
+  - petsc4py
+  - pyvista
+  - numba
+  - slepc4py
+  - ffcx
+  - ufl
+  - basix
