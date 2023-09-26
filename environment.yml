@@ -9,12 +9,10 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
+  - fenics
+  - fenics-ffcx
+  - fenics-basix
   - pybind11
   - mpi4py
   - petsc4py
   - pyvista
-  - numba
-  - slepc4py
-  - ffcx
-  - ufl
-  - basix
