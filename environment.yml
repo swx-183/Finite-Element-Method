@@ -9,8 +9,9 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
+  - dolphinx
   - fenics
   - pybind11
   - mpi4py
-  - petsc4py
+  - petsc
   - pyvista
